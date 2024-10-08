@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tvRegisterTitle" type="id">tvRegisterTitle</item>
+    <item name="fullNameInputLayout" type="id">fullNameInputLayout</item>
+    <item name="etFullName" type="id">etFullNAme</item>
+    <item name="emailRegisterInputLayout" type="id">emailRegisterInputLayout</item>
+    <item name="etEmailRegister" type="id">etEmailRegister</item>
+    <item name="passwordRegisterInputLayout" type="id">passwordRegisterInputLayout</item>
+    <item name="etPasswordRegister" type="id">etPasswordRegister</item>
+    <item name="carBrandInputLayout" type="id">carBrandInputLayout</item>
+    <item name="etCarBrand" type="id">etCarBrand</item>
+    <item name="carModelInputLayout" type="id">carModelInputLayout</item>
+    <item name="etCarModel" type="id">etCarModel</item>
+    <item name="fuelTypeInputLayout" type="id">fuelTypeInputLayout</item>
+    <item name="etFuelType" type="id">etFuelType</item>
+    <item name="btnRegister" type="id">btnRegister</item>
+    <item name="tvLoginLink" type="id">tvLoginLink</item>
+</resources>
